@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Japanese, Python and Data Analysis
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : @78Saigon on X, or on <a href="https://www.linkedin.com/in/dang-nam-nguyen/" target="_blank">LinkedIn</a>
-- 😄 Pronouns: Any! But he/him is preferred in a professionnal context
+- 😄 Pronouns: Any! But he/him is preferred in a professional context
 - ⚡ Fun fact: I play competitive Mario Kart
 
 <!---
