@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Saigon78
+- 👋 Hi, I’m @Saigon78, but you can call me Dang Nam!
 - 👀 I’m interested in video editng, video games, hardware, animes and sports
 - 🌱 I’m currently learning Japanese, Python and Data Analysis
 - 💞️ I’m looking to collaborate on ...
